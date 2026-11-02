@@ -1,0 +1,3 @@
+X = plan mode arm
+Y = council build
+(assigned by a coin flip 2026-11-02, result 1 = X is the arm; not shown to the grader)
